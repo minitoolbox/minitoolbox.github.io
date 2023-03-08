@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="cn"  oncontextmenu = "return false" onselectstart = "return false" oncopy = "return false">
+  <head>
+    <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>迷梦工坊</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <div class="navbar">
+        <img src="./images/icon.png" />
+        <div class="pages">
+          <div class="page-button" id="home">
+            <img src="./images/icon/home.svg"/><span class="page-title">首页</span>
+          </div>
+          <div class="page-button" id="tools">
+            <img src="./images/icon/work.svg"/><span class="page-title">工具</span>
+          </div>
+          <div class="page-button" id="explain">
+            <img src="./images/icon/explain.svg"/><span class="page-title">教程</span>
+          </div>
+          <div class="page-button" id="user">
+            <img src="./images/icon/user.svg"/><span class="page-title">我的</span>
+          </div>
+          <div class="page-button" id="settings">
+            <img src="./images/icon/settings.svg"/><span class="page-title">设置</span>
+          </div>
+        </div>
+        <div id="version">v3.0</div>
+      </div>
+      <div id="main">
+        <iframe id="pageview"></iframe>
+      </div>
+    </div>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="./js/app.js"></script>
+  </body>
+</html>
