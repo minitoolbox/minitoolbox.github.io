@@ -1,6 +1,6 @@
 # 迷梦工坊 - 为创作者而生
 
-> Q群：[882487612](mqqapi://card/show_pslcard?src_type=internal&version=1&uin=882487612&card_type=group&source=qrcode)
+Q群：**882487612**
 
 ## 关于迷梦工坊
 
@@ -42,7 +42,7 @@ APP更新内容将会在第一时间发布到群里，请注意查看！
 
 ## 联系作者
 
-QQ：3224815186   
-迷你号：158087577   
-抖音：Tatsuki丶梦辰   
+QQ：3224815186  
+迷你号：158087577  
+抖音：Tatsuki丶梦辰  
 哔哩哔哩：Tatsuki丶梦辰
