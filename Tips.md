@@ -1,16 +1,17 @@
 # 迷梦工坊 - 为创作者而生
 
-> Q群：[882487612](mqqapi://card/show_pslcard?src_type=internal&version=1&uin=882487612&card_type=group&source=qrcode)
+> 一群：[882487612](mqqapi://card/show_pslcard?src_type=internal&version=1&uin=882487612&card_type=group&source=qrcode)
+> 二群：[713413602](mqqapi://card/show_pslcard?src_type=internal&version=1&uin=713413602&card_type=group&source=qrcode)
 
 ## 关于迷梦工坊
 
-官网：<https://mimeng.fun/> （正在搭建中...）
+官网：<https://mimeng.fun/>
 
 迷梦工坊致力于为开发者们提供更加快捷方便的开发体验。APP内置了多种编辑器以及各种实用工具，在一定程度上可以简化你的游戏开发过程。
 
 迷梦工坊、迷你开发者工具箱等APP由`梦辰`开发，版权归梦辰所有，未经允许禁止进行二创、冒充作者等行为，违者将会受到**严峻的惩罚**！
 
-更多内容详见<https://docs.mimeng.fun/>
+更多内容详见<https://mimeng.fun/>
 
 ## 进群须知
 
